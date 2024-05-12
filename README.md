@@ -11,4 +11,4 @@ This Python script is designed to simulate the potential outcomes of an investme
 
 Each simulation runs a million trials to generate a robust dataset of possible outcomes. The script then calculates and displays statistics for each simulation, including the minimum, average, and maximum returns, and the probability of the investment's final amount being below the initial investment or a target value adjusted for a 3% annual inflation rate.
 
-This comprehensive analysis offers insights into the risks and rewards associated with different investment durations and strategies, aiding investors in making informed decisions based on historical performance.
+This analysis offers insights into the risks and rewards associated with different investment durations and strategies, aiding investors in making informed decisions based on historical performance.
